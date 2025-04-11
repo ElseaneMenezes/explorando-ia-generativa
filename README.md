@@ -1,4 +1,4 @@
-# explorando-ia-generativa
+# Explorando-IA-generativa
 Explorando os Recursos de IA Generativa com Copilot e OpenAI
 Objetivo 🎯
 Neste laboratório, vamos explorar o GitHub Copilot e os recursos da OpenAI, com foco tanto nos filtros de conteúdo quanto na criação de código.
