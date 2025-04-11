@@ -41,4 +41,3 @@ Considerações Finais
 Neste laboratório, exploramos algumas funcionalidades disponíveis nas ferramentas abertas da OpenAI. Mesmo com recursos limitados, foi possível ter uma boa noção do potencial das soluções de IA Generativa.
 Sem dúvidas, este é apenas o começo. A área de IA Generativa está em constante evolução e tem ganhado cada vez mais visibilidade por seus avanços impressionantes — tornando-se uma das frentes mais promissoras e empolgantes dentro do campo da inteligência artificial.
 
-Toni A C Prado
